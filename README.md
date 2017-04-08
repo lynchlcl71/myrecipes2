@@ -14,3 +14,4 @@ Build minimum code necessary to make each test pass
 
 Re-factor the code - "code doesn't smell" -clean code, confidence
 
+Look at some sample layouts for homepage, and come up with a homepage design
