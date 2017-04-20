@@ -27,8 +27,16 @@ $navbar-default-bg: #073B51;
   text-decoration: none;
 }
 
-.jumbotron h1, h2 {
+.jumbotron h1 {
   color: #fff;
+  text-align: center;
+  margin-bottom: 30px;
+  letter-spacing: -1px;
+  font-weight: bolder;
+}
+
+.jumbotron h2 {
+  color: black;
   text-align: center;
   margin-bottom: 30px;
   letter-spacing: -1px;
@@ -42,4 +50,29 @@ $navbar-default-bg: #073B51;
 .btn-xlarge:hover {
   color: #fff;
   text-decoration: none;
+}
+
+footer {
+  margin-tip: 45px;
+  padding-top: 5px;
+  border-top: 1px solid #eaeaea;
+  color: #777;
+}
+
+footer a {
+  color: #555;
+}
+
+footer a:hover {
+  color: #222
+}
+
+footer ul {
+  float: right;
+  list-style: none;
+}
+
+footer ul li {
+  float: left;
+  margin-left: 15px;
 }
